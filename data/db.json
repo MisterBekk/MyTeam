@@ -1,0 +1,20 @@
+{
+    "benefits": [
+      {"img": "https://p.kindpng.com/picc/s/21-211180_transparent-businessman-clipart-png-user-man-icon-png.png", "title": "Experienced Individu", "info": "Our network is made up of highly experienced professionals who are passionate about what they do.", "id": 1},
+      {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3Gs1TnxL3yj5NqKGnFX7F3JD5n4IeYX2tIGYfsG9EwFjvVD4EuR9PCan0FTNlZxlfss&usqp=CAU", "title": "Easy to Implement", "info": "Our processes have been refined over years of implementation meaning our teams always deliver.", "id": 2},
+      {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsH8cBfzCSKeJR5EX2OO_b6DrH42Pjcus424eAoc6euMtvXoweDyFOKLjQL6_g1OJhyTI&usqp=CAU","title": "Enhanced Productivity", "info": "Our customized platform with in-built analytics helps you manage your distributed teams.", "id": 3}
+  ],
+  "staffs": [
+    {"info": "“The team perfectly fit the specialized skill set required. They focused on the most essential features helping us launch the platform eight months faster than planned.”", "name": "Kady Baker", "status": "Product Manager at Bookmark", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kzQl0bM2DC34kX3D_3sKjfrSPN0x4Ko82w&usqp=CAU"},
+    {"info": "“We needed to automate our entire onboarding process. The team came in and built out the whole journey. Since going live, user retention has gone through the roof!”", "name": "Aiysha Reese", "status": "Founder of Manage", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZ6cXKwgBNicdVXsdFaQ_ldEzoeMKDtNO9w&usqp=CAU"},
+    {"info": "“Amazing. Our team helped us build an app that delivered a new experience for hiring a physio. The launch was an instant success with 100k downloads in the first month.”", "name": "Arthur Clarke", "status": "Co-founder of MyPhysio", "img": "https://c8.alamy.com/comp/2AT10JD/male-bank-manager-working-in-office-2AT10JD.jpg"}
+  ],
+  "people": [
+    {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo-CP7ChC_RjSlZcIC59_FH4KBl41Enn74Zw&usqp=CAU", "name": "Nikita Marks", "status": "Founder & CEO"},
+    {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHVjftc0feLjAL-0rQXOV6eLoRIjy2mK-3w&usqp=CAU", "name": "Cristian Duncan", "status": "Co-founder & COO"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE976Rm9kWFeKdwm9qBDpEv3p-EXn7sUAXA&usqp=CAU", "name": "Cruz Hamer", "status": "Co-founder & CTO"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsy-JK-Ne_QKptuQQexiadw_gsPHLFs1hi6g&usqp=CAU", "name": "Drake Heaton", "status": "Business Development Lead"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzAqKERFeE4h-K3vnOWQSWJmxRTKTApVjEg&usqp=CAU", "name": "Griffin Wise", "status": "Lead Marketing"},
+    {"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsupI89wVbXLRzxaiHG_rezqk3FrqDeMmog&usqp=CAU", "name": "Aden Allan", "status": "Project Manager"}
+  ]
+}
